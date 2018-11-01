@@ -513,7 +513,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libgpustats \
-    libsdm-disp-vndapis \
     libts_detected_face_hal \
     libts_face_beautify_hal \
     ims \
